@@ -7,7 +7,7 @@ T add(T a, T b) {
 }
 
 int main() {
-	cout << add(3, 5) << endl;
+	cout << add(3, 6) << endl;
 	cout << add(2.7, 4.2) << endl;
 
 	//¹Ø¿¡²« ¸í½ÃÀû ÅÛÇÃ¸´ ÇÊ¿ä
